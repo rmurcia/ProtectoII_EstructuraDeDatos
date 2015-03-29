@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427349870 source:/home/rmurcia/Documentos/CODE:BLOCKS/ProyectoIIParaCasa/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
